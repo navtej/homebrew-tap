@@ -1,6 +1,6 @@
 cask "media-manager" do
-  version "2026.08.02.0"
-  sha256 "0cadc9511416642c6558a35809cf7d0e2d5f36838d7480d85810eb16dc63f585"
+  version "2026.08.03.0"
+  sha256 "66fc1ffed8eaba6759be01275fd996c22d1da585d91fed20ea16867b8a411a7a"
 
   url "https://github.com/navtej/media_manager/releases/download/v#{version}/MovieManager-#{version}-macos-arm64.dmg"
   name "Media Manager"
